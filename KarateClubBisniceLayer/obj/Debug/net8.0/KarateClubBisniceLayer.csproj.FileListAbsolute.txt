@@ -1,0 +1,15 @@
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\bin\Debug\net8.0\KarateClubBisniceLayer.deps.json
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\bin\Debug\net8.0\KarateClubBisniceLayer.dll
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\bin\Debug\net8.0\KarateClubBisniceLayer.pdb
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\bin\Debug\net8.0\KarateClubDataAccessLayer.dll
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\bin\Debug\net8.0\KarateClubDataAccessLayer.pdb
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateClubBisniceLayer.csproj.AssemblyReference.cache
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateClubBisniceLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateClubBisniceLayer.AssemblyInfoInputs.cache
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateClubBisniceLayer.AssemblyInfo.cs
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateClubBisniceLayer.csproj.CoreCompileInputs.cache
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateCl.98267ED7.Up2Date
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateClubBisniceLayer.dll
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\refint\KarateClubBisniceLayer.dll
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\KarateClubBisniceLayer.pdb
+D:\Full Project To Karate Club With Api\KarateClubBisniceLayer\obj\Debug\net8.0\ref\KarateClubBisniceLayer.dll
